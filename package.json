@@ -1,5 +1,5 @@
 {
-    "name": "origami-ui",
+    "name": "origamiboat-ui",
     "version": "1.0.0",
     "description": "一个react ui库",
     "main": "index.js",
@@ -9,14 +9,14 @@
     "keywords": [
         "ui",
         "react",
-        "origami"
+        "origamiboat"
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/laincarl/origami-ui.git"
+        "url": "git+https://github.com/laincarl/origamiboat-ui.git"
     },
     "bugs": {
-        "url": "https://github.com/laincarl/origami-ui/issues"
+        "url": "https://github.com/laincarl/origamiboat-ui/issues"
     },
     "author": "laincarl",
     "license": "ISC"
