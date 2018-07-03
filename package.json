@@ -1,0 +1,23 @@
+{
+    "name": "origami-ui",
+    "version": "1.0.0",
+    "description": "一个react ui库",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ui",
+        "react",
+        "origami"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/laincarl/origami-ui.git"
+    },
+    "bugs": {
+        "url": "https://github.com/laincarl/origami-ui/issues"
+    },
+    "author": "laincarl",
+    "license": "ISC"
+}
