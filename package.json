@@ -1,14 +1,18 @@
 {
     "name": "origamiboat-ui",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "一个react ui库",
     "main": "index.js",
     "bin": {
-        "origamiboat-ui": "./"
+        "origamiboat-ui": "./bin/app"
     },
+    "files": [
+        "lib",
+        "bin"
+    ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node index.js"
+        "start": "node ./bin/app"
     },
     "keywords": [
         "ui",
@@ -23,5 +27,8 @@
         "url": "https://github.com/laincarl/origamiboat-ui/issues"
     },
     "author": "laincarl",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^2.16.0"
+    }
 }
